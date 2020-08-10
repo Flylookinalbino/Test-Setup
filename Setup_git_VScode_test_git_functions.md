@@ -39,6 +39,7 @@
 8. If code checks out ok then Create Pull Request
 9. Merge to the master code
 10. Delete Branch if no longer needed
+11. Changed Name
 
 
 
