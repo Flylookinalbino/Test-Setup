@@ -1,4 +1,4 @@
-# GitHub: Installation and Practice on MacOS
+# GitHub: Installation and Practice on MacOS 12
 
 # Steps Installing git (Youtube Link: https://www.youtube.com/watch?v=N-SDrN4G4lE):
 1. Go to Homebrew copy link /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
@@ -21,5 +21,7 @@
 2. # Title
    Discription
 3. Notice the 1 (change taken place be not commited) on the right-hand shortcut nav which looks like branches
-4.  HI
+4. Why is it not working
+5. this is getting annoying
+
 
