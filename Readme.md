@@ -22,6 +22,6 @@
    Discription
 3. Notice the 1 (change taken place be not commited) on the right-hand shortcut nav which looks like branches
 4. Why is it not working
-5. this is getting annoying
+5. 
 
 
