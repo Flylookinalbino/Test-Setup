@@ -28,4 +28,12 @@
 
 # Done with testing commit and push now need to learn other github functions like branches and other stuff
 
+# Branching and Merging
+1. click the master tab on the lower right hand corner of vscode
+2. create new branch
+3. name new branch
+4. Notice your working on the new branch as the name will replace the master tab in location noted in 1.
+5. now make changes to the Readme.md
+
+
 
