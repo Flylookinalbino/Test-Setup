@@ -35,7 +35,10 @@
 4. Notice your working on the new branch as the name will replace the master tab in location noted in 1.
 5. now make changes to the Readme.md
 6. Publish Branch to update git server
-7.
+7. Then go to GitHub and Compare code and pull request 
+8. If code checks out ok then Create Pull Request
+9. Merge to the master code
+10. Delete Branch if no longer needed
 
 
 
