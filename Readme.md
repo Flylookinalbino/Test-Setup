@@ -21,7 +21,9 @@
 2. # Title
    Discription
 3. Notice the 1 (change taken place be not commited) on the right-hand shortcut nav which looks like branches
-4. Why is it not working
-5. 
+4. Put a Discription to the change
+5. press the Plus to stage change 
+6. then click the three dots to Push your change to git hub
+7. Make sure you have a note on your username and password
 
 
