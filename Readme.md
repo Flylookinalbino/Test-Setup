@@ -26,4 +26,6 @@
 6. then click the three dots to Push your change to git hub
 7. Make sure you have a note on your username and password
 
+# Done with testing commit and push now need to learn other github functions like branches and other stuff
+
 
