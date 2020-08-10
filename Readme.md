@@ -34,6 +34,8 @@
 3. name new branch
 4. Notice your working on the new branch as the name will replace the master tab in location noted in 1.
 5. now make changes to the Readme.md
+6. Publish Branch to update git server
+7.
 
 
 
