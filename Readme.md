@@ -1,4 +1,4 @@
-# GitHub: Installation and Practice on MacOS 12
+# GitHub: Installation and Practice on MacOS Mojave version 10.14.6
 
 # Steps Installing git (Youtube Link: https://www.youtube.com/watch?v=N-SDrN4G4lE):
 1. Go to Homebrew copy link /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
